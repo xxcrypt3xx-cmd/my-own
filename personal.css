@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Bitcount+Grid+Single:wght@100..900&family=Mystery+Quest&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Bitcount+Grid+Single:wght@100..900&family=Montserrat+Alternates:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mystery+Quest&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Elite&display=swap');
 
 body {
 background: url('https://iili.io/fHRXov4.gif') no-repeat center center fixed !important;
@@ -36,7 +36,7 @@ border-top: none !important;
 border-right: none !important;
 border-radius: 15px !important;
 box-shadow: none !important;
-font-family: 'Raleway';
+font-family: 'Montserrat Alternates';
 }
 
 navbar li a {
@@ -161,13 +161,13 @@ border: 1px solid #080504 !important;
 h1 {
 text-align: left !important;
 color: #2d4a2e !important;
-font-family: 'Raleway';
+font-family: 'Montserrat Alternates';
 }
 
 h3 {
 text-align: center !important;
 color: #2d4a2e !important;
-font-family: 'Raleway';
+font-family: 'Montserrat Alternates';
 }
 
 .top, th, .bottom, .left, .right_cub {
@@ -175,7 +175,7 @@ background: #0f100e !important;
 color: #2d4a2e !important;
 border: 1px solid #080504 !important;
 text-align: center !important;
-font-family: 'Raleway';
+font-family: 'Montserrat Alternates';
 }
 
 td.right {
@@ -183,7 +183,7 @@ background: rgba(15, 16, 14, 0.5) !important;
 color: #2d4a2e !important;
 border: 1px solid #080504 !important;
 text-align: center !important;
-font-family: 'Raleway';
+font-family: 'Montserrat Alternates';
 }
 
 .cave-grid, .mound-grid {
