@@ -1,0 +1,342 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Bitcount+Grid+Single:wght@100..900&family=Mystery+Quest&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Special+Elite&display=swap');
+
+body {
+background: url('https://iili.io/fHRXov4.gif') no-repeat center center fixed !important;
+color: none !important;
+background-size: cover !important;
+}
+
+#commentBox {
+background: rgba(15, 16, 14, 0.5) !important;
+color: #2D4A2E !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+}
+
+.col-md-9.col-xs-12 {
+background: none !important;
+border: 4px double #080504 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom: none !important;
+}
+
+div.container.main {
+background: rgba(15, 16, 14, 0.5) !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+}
+
+.navbar {
+background: #0F100E !important;
+border: 1px solid #080504 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+font-family: Raleway;
+}
+
+navbar li a {
+color: #2D4A2E !important;
+}
+
+.navbar li a:hover {
+background: none !important;
+color: #739c64 !important;
+border: 0 0 10px #739c64, 0 0 20px #739c64, 0 0 40px #739c64;
+text-shadow: 0 0 5px #739c64, 0 0 10px #739c64, 0 0 20px #739c64;
+transition: 0.8s !important;
+}
+
+.navbar-header > a > img {
+content: url('https://iili.io/fH5bTTx.gif') !important;
+width: 100px;
+}
+
+.breadcrumb {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+}
+
+.feature {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+}
+
+.topbar {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: none !important;
+border-top: none !important;
+border-bottom: 4px solid #080504 !important;
+}
+
+.sidebar, .table {
+background: none !important;
+color: #2d4a2e !important;
+border: none !important;
+}
+
+.panel {
+background: #0f100e !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+}
+
+
+.progress {
+background: #080504 !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+}
+
+.progress div {
+color: #739c64 !important;
+}
+
+.progress-bar-warning {
+background: #26311b !important;
+}
+
+.progress-bar-danger {
+background: #26311b !important;
+}
+
+.progress-bar-success {
+background: #26311b !important;
+}
+
+.progress-bar {
+background: #26311b !important;
+}
+
+.s-chat-message:nth-child(even) {
+background: #080504 !important;
+color: #2d4a2e !important;
+border: 1px dashed #080504 !important;
+}
+
+.s-chat-message:nth-child(odd) {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px dashed #0f100e !important;
+}
+
+.s-chat-message_timestamp {
+color: #2d4a2e !important;
+}
+
+#chatMessageContainer {
+background: #0f100e !important;
+color: #2d4a2e !imp_ortant;
+border: none !important;
+}
+
+button#label_currentChannel {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: none !important;
+}
+
+.s-chat-message_content {
+background: none !important;
+color: #2d4a2e !important;
+border: none !important;
+}
+
+div#chatMessagePinned {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+}
+
+h1 {
+text-align: left !important;
+color: #2d4a2e !important;
+font-family: Raleway;
+}
+
+h3 {
+text-align: center !important;
+color: #2d4a2e !important;
+font-family: Raleway;
+}
+
+.top, th, .bottom, .left, .right_cub {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+font-family: Raleway;
+}
+
+td.right {
+background: rgba(15, 16, 14, 0.5) !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+font-family: Raleway;
+}
+
+.cave-grid, .mound-grid {
+background: rgba(15, 16, 14, 0.5) !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+border-radius: 15px !important;
+}
+
+.cave-grid:hover, .mound-grid:hover {
+text-shadow: 0 0 5px #739c64, 0 0 10px #739c64, 0 0 20px #739c64 !important;
+transition: 0.8s !important;
+}
+
+div.cave-grid>img {
+content: url('https://iili.io/fH7FqDF.gif') !important;
+width: 100% !important;
+height: 100% !important;
+}
+
+div.mound-grid>img {
+content: url('https://iili.io/fH7FXO7.gif') !important;
+width: 100% !important;
+height: 100% !important;
+}
+
+a:link, a:visited {
+color: #739c64 !important;
+}
+
+a:hover {
+color: #739c64 !important;
+text-shadow: 0 0 5px #739c64, 0 0 10px #739c64, 0 0 20px #739c64 !important;
+transition: 0.8s !important;
+}
+
+topbar a:link {
+color: #739c64 !important;
+transition: 0.8s !important;
+}
+
+.topbar a:visited {
+color: #739c64 !important;
+}
+
+.topbar a:hover {
+color: #739c64 !important;
+}
+
+.alert-danger, .alert-success, .attack-won, .attack-lost {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #2d4a2e !important;
+border-radius: 15px !important;
+text-align: center !important;
+}
+
+input[type="button"] {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"] {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #A26522 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #A26522 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: #0f100e !important;
+color: #739c64 !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: 0 0 5px #739c64, 0 0 10px #739c64, 0 0 20px #739c64 !important;
+transition: 0.8s !important;
+box-shadow: none !important;
+}
+
+input[type="text]:focus {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: #0f100e !important;
+color: #2d4a2e !important;
+border: 1px solid #080504 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
