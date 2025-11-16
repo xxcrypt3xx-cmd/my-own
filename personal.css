@@ -36,7 +36,7 @@ border-top: none !important;
 border-right: none !important;
 border-radius: 15px !important;
 box-shadow: none !important;
-font-family: Raleway;
+font-family: 'Raleway';
 }
 
 navbar li a {
@@ -53,7 +53,7 @@ transition: 0.8s !important;
 
 .navbar-header > a > img {
 content: url('https://iili.io/fH5bTTx.gif') !important;
-width: 100px;
+width: 150px;
 }
 
 .breadcrumb {
@@ -161,13 +161,13 @@ border: 1px solid #080504 !important;
 h1 {
 text-align: left !important;
 color: #2d4a2e !important;
-font-family: Raleway;
+font-family: 'Raleway';
 }
 
 h3 {
 text-align: center !important;
 color: #2d4a2e !important;
-font-family: Raleway;
+font-family: 'Raleway';
 }
 
 .top, th, .bottom, .left, .right_cub {
@@ -175,7 +175,7 @@ background: #0f100e !important;
 color: #2d4a2e !important;
 border: 1px solid #080504 !important;
 text-align: center !important;
-font-family: Raleway;
+font-family: 'Raleway';
 }
 
 td.right {
@@ -183,7 +183,7 @@ background: rgba(15, 16, 14, 0.5) !important;
 color: #2d4a2e !important;
 border: 1px solid #080504 !important;
 text-align: center !important;
-font-family: Raleway;
+font-family: 'Raleway';
 }
 
 .cave-grid, .mound-grid {
